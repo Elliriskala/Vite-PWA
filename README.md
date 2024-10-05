@@ -1,2 +1,0 @@
-﻿# Vite-PWA
-# vite-PWA
